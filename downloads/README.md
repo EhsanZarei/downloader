@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [VieNeu-TTS-v2-Q4-K-M](./VieNeu-TTS-v2-Q4-K-M)
 - [kiro-ide-0.11.133-stable-win32-x64](./kiro-ide-0.11.133-stable-win32-x64)
 
 ---
