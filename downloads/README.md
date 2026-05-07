@@ -5,6 +5,7 @@
 - [kiro-ide-0.11.133-stable-win32-x64](./kiro-ide-0.11.133-stable-win32-x64)
 - [orpheus-3b-base-q8_0](./orpheus-3b-base-q8_0)
 - [qwen3-tts-12hz-1.7b-voicedesign-q8_0](./qwen3-tts-12hz-1.7b-voicedesign-q8_0)
+- [z-anime-base-q8_0](./z-anime-base-q8_0)
 
 ---
 
