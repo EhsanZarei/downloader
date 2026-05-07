@@ -79,18 +79,22 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [VieNeu-TTS-v2-Q4-K-M](https://github.com/EhsanZarei/downloader/tree/main/downloads/VieNeu-TTS-v2-Q4-K-M)
 
-2. [echo-dit-q8](https://github.com/EhsanZarei/downloader/tree/main/downloads/echo-dit-q8)
+2. [download](https://github.com/EhsanZarei/downloader/tree/main/downloads/download)
 
-3. [kiro-ide-0.11.133-stable-win32-x64](https://github.com/EhsanZarei/downloader/tree/main/downloads/kiro-ide-0.11.133-stable-win32-x64)
+3. [echo-dit-q8](https://github.com/EhsanZarei/downloader/tree/main/downloads/echo-dit-q8)
 
-4. [orpheus-3b-base-q8_0](https://github.com/EhsanZarei/downloader/tree/main/downloads/orpheus-3b-base-q8_0)
+4. [kiro-ide-0.11.133-stable-win32-x64](https://github.com/EhsanZarei/downloader/tree/main/downloads/kiro-ide-0.11.133-stable-win32-x64)
 
-5. [qwen3-tts-12hz-1.7b-voicedesign-q8_0](https://github.com/EhsanZarei/downloader/tree/main/downloads/qwen3-tts-12hz-1.7b-voicedesign-q8_0)
+5. [orpheus-3b-base-q8_0](https://github.com/EhsanZarei/downloader/tree/main/downloads/orpheus-3b-base-q8_0)
 
-6. [z-anime-base-q8_0](https://github.com/EhsanZarei/downloader/tree/main/downloads/z-anime-base-q8_0)
+6. [qwen3-tts-12hz-1.7b-voicedesign-q8_0](https://github.com/EhsanZarei/downloader/tree/main/downloads/qwen3-tts-12hz-1.7b-voicedesign-q8_0)
+
+7. [z-anime-base-q8_0](https://github.com/EhsanZarei/downloader/tree/main/downloads/z-anime-base-q8_0)
 
 ---
