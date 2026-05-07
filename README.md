@@ -71,10 +71,14 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [VieNeu-TTS-v2-Q4-K-M](https://github.com/EhsanZarei/downloader/tree/main/downloads/VieNeu-TTS-v2-Q4-K-M)
 
-2. [kiro-ide-0.11.133-stable-win32-x64](https://github.com/EhsanZarei/downloader/tree/main/downloads/kiro-ide-0.11.133-stable-win32-x64)
+2. [echo-dit-q8](https://github.com/EhsanZarei/downloader/tree/main/downloads/echo-dit-q8)
+
+3. [kiro-ide-0.11.133-stable-win32-x64](https://github.com/EhsanZarei/downloader/tree/main/downloads/kiro-ide-0.11.133-stable-win32-x64)
 
 ---
